@@ -28,4 +28,4 @@ Go to http://localhost:8190/struts2-spring-ajax/
 
 > docker run -d -p 8190:8080 ghusta/struts2-spring-ajax 
 
-Then test : http://<docker-host>:8190/struts2-spring-ajax/
+Then test : http://[docker-host]:8190/struts2-spring-ajax/
